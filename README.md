@@ -1,5 +1,5 @@
 # Monodepth2 in own data
-You can read this paper to understand the technical details. However, I am applying this technology to retina surgical data to obtain depth estimation .
+You can read this paper to understand the technical details. However, I am applying this technology to medical data to obtain depth estimation .
 > **Digging into Self-Supervised Monocular Depth Prediction**
 >
 > [Clément Godard](http://www0.cs.ucl.ac.uk/staff/C.Godard/), [Oisin Mac Aodha](http://vision.caltech.edu/~macaodha/), [Michael Firman](http://www.michaelfirman.co.uk) and [Gabriel J. Brostow](http://www0.cs.ucl.ac.uk/staff/g.brostow/)
