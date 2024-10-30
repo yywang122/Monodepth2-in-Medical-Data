@@ -35,3 +35,4 @@ Enter **mono_dataset.py** and modify this section of the code.
 color_aug = transforms.ColorJitter(
                 self.brightness, self.contrast, self.saturation, self.hue)
 ```
+The complete steps for reproducing the program are outlined here.(https://hackmd.io/@Vn9d3hs_SMiDRldY6Mryww/rymVH1l5a)
