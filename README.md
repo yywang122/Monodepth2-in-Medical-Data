@@ -1,4 +1,4 @@
-# Monodepth2 in own data
+# Monodepth2 in Medical data
 You can read this paper to understand the technical details. However, I am applying this technology to medical data to obtain depth estimation .
 > **Digging into Self-Supervised Monocular Depth Prediction**
 >
